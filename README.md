@@ -1,6 +1,4 @@
-# micropython-ftp-server
-Micropython FTP Server for ESP8266/32
-
+# Micropython FTP Server for ESP8266/32
 
 ## Возможные проблемы
 Сразу начнем про проблемы: 
